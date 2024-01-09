@@ -1,0 +1,11 @@
+local <- sp
+cx
+bx
+ax
+bp    <- bp
+return address
+P3
+P2
+P1
+Output2
+Output1

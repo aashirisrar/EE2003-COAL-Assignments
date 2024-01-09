@@ -1,0 +1,12 @@
+;1)yes
+;2)yes
+;3)no
+;4)yes
+;5)yes
+;6)yes
+;7)no
+;8)yes
+;9)no
+;10)no
+;11)yes
+;12)yes
